@@ -1,0 +1,15 @@
+File => it is the collection of data,instructions
+and information.
+
+saving a file : ctrl+s
+copy : ctrl+c
+paste: ctrl+v
+undo : ctrl+z
+redo :ctrl+y
+select a line : ctrl+l
+shift+placeholder1+placeholder
+multi cursor: long press alt+ place your cursor
+ctr+p  : to search the file
+
+
+
